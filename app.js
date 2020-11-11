@@ -35,3 +35,5 @@ function cambiar (user, newName, newLastName) {
 }
 
 console.log(cambiar(user, 'brayan', 'salazar'))
+
+console.log('hola mundo');
